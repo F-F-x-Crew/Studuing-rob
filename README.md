@@ -135,7 +135,7 @@ OUR TEAM
  </tr>
  <tr>
   <td>SABINA</td>
-  <td>CONTENT STRATEGY| UX/UI Researcher</td>
+  <td>CONTENT STRATEGIST| UX ANALYST</td>
  </tr> 
  <tr>
   <td>VALERIA</td>
