@@ -119,11 +119,14 @@
 
 СТЕК
 -----
-- Бот:Telebot/ IOgram/ other
-- АД: Python/ R
+- Бот: Telebot/ IOgram/ other
+- АД: Python_library / R_library
 - СУБД: SQLite
 - Слайды: Figma
 - Брокер сообщений: RabbitMQ/ Reddit/ other
+
+#JAVA #R #PYTHON
+
 
 OUR TEAM
 ----
