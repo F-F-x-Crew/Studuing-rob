@@ -18,6 +18,9 @@ netology_group - Go to the Netology group in Telegram  // netology_group - Пе�
 get_tested - Select a test to pass                    // get_tested - Выбрать тест для прохождения
 setUp_notifications - Set up notifications           // setUp_notifications - Настроить получение уведомлений
 
+my_programm
+ my_goal // цель моего обучения на программе. устанавливается для каждой программы отдельно. 
+
 
                                                                   ------------
                                                                   кейсы. мвп-1
