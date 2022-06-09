@@ -68,8 +68,14 @@ setUp_notifications - Set up notifications           // setUp_notifications - Н
 /* пользователь выбирает тест из списка (меню get_tested) доступных тестов -- по нажатии - перейти по URL:
 https://docs.google.com/forms/d/1fSzxFRJs-VcjkYPFwQjjQ_aJ7BRH2GepLLHBS65e-e4/edit */
 
-2 - оценка качества обучения            //
-3 - оценка качества бота               //
+2 - оценка качества обучения            
+/*  перейти по URL:
+https://docs.google.com/forms/d/1fSzxFRJs-VcjkYPFwQjjQ_aJ7BRH2GepLLHBS65e-e4/edit */
+
+3 - оценка качества бота               
+/*  перейти по URL:
+https://docs.google.com/forms/d/1fSzxFRJs-VcjkYPFwQjjQ_aJ7BRH2GepLLHBS65e-e4/edit */
+
 
                                                                   ------------
                                                                      фреймы
